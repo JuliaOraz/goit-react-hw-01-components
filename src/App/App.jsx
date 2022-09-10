@@ -4,9 +4,9 @@ import { Statistics } from 'components/Statistics/Statistics';
 import data from 'components/Statistics/data';
 import { FriendList } from 'components/FriendList/FriendList';
 import friends from 'components/FriendList/friends';
-import { TransactionHistory } from 'components/TransactionHistory/TransactionHistory'
+import { TransactionHistory } from 'components/TransactionHistory/TransactionHistory';
 import transaction from 'components/TransactionHistory/transactions';
-import {Container} from './App.styled'
+import { Container } from './App.styled';
 
 export const App = () => {
   return (
